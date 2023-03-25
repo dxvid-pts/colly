@@ -16,7 +16,7 @@ package colly_test
 
 import (
 	"github.com/antchfx/htmlquery"
-	"github.com/gocolly/colly/v2"
+	"github.com/dxvid-pts/colly"
 	"reflect"
 	"strings"
 	"testing"

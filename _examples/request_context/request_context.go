@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/gocolly/colly/v2"
+	"github.com/dxvid-pts/colly"
 )
 
 func main() {
